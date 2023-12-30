@@ -1,1 +1,1 @@
-# Recommendation-System-for-Amazon-content-reviews
+# Recommendation System for Amazon content reviews
